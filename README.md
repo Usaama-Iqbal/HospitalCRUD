@@ -1,1 +1,2 @@
 # HospitalCRUD
+The Hospital CRUD System is a comprehensive desktop application developed using .NET framework and MySQL database. It serves as a management system for hospitals, facilitating the seamless management of patient information, medical records, and staff details. The system offers a user-friendly interface, empowering hospital staff to efficiently perform CRUD operations (Create, Read, Update, Delete) on various entities.
